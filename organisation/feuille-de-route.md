@@ -11,7 +11,7 @@ Dans une logique ouverte, chacun est libre de contribuer en fonction de ses comp
 de ses contraintes financières/de temps/géographiques/etc. Plus d'explications dans le [guide de contribution](guide-contribution.md).
 
 <p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/Open-Models/Brique/main/images/roadmap.jpg">
+    <img src="https://github.com/AbcSxyZ/Brique/raw/roadmap-midjourney-image/images/roadmap.jpg">
 </p>
 
 ## Éduquer aux modèles ouverts
