@@ -363,6 +363,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🛠️ [Openly Available Sources Integrated Search](https://oasis.geneseo.edu/index.php) (OASIS), OER search engine
 - 🛠️ [The Mason OER Metafinder](https://mom.gmu.edu) (MOM), OER search engine
 - 🛠️ [PressBooks](https://pressbooks.com/), open book creation platform
+- 🛠️ [Lumi](https://app.lumi.education/), multi-format content creation platform
 - 🛠️ [Florilège](https://florilege.ls2n.fr/), French-language OER indexing by manual annotation
 - 🛠️ [convOERter](https://convoerter-eval.elearn.rwth-aachen.de/en/), convert presentation to OER
 
